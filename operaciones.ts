@@ -1,6 +1,6 @@
 // Función para sumar dos números
 const sumar = (a: number, b: number): number => {
-    console.log("Calculando suma...");
+    console.log("Azul: Sumando valores...");
     return a + b;
 };
 
