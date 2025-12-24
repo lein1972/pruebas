@@ -22,6 +22,13 @@ const dividir = (a: number, b: number): number => {
     return a / b;
 };
 
+// Función para elevar un número a una potencia
+const potencia = (base: number, exponente: number): number => {
+    return Math.pow(base, exponente);
+};
+
+console.log("Potencia:", potencia(2, 3)); // Debería dar 8
+
 console.log("Multiplicación:", multiplicar(10, 5));
 console.log("División:", dividir(10, 5));
 
