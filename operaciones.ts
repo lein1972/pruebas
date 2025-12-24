@@ -33,5 +33,5 @@ console.log("Multiplicación:", multiplicar(10, 5));
 console.log("División:", dividir(10, 5));
 
 // Pruebas rápidas
-console.log("Resultado final de la suma:", sumar(10, 5));
+console.log("La suma total es igual a:", sumar(10, 5));
 console.log("Resta:", restar(10, 5));
